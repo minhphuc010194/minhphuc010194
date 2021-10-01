@@ -2,7 +2,7 @@
 
 <a href="mailto:sangdth@gmail.com">
   <img src="https://img-premium.flaticon.com/png/512/2875/2875435.png?token=exp=1633054181~hmac=45f39a1092357c65dfdd725ec5054811" width="20px"     alt="Gmail Badge" data-canonical-src="https://img.shields.io/badge/-chauminhphuc1994it@gmail.com-c14438?               style=flat&amp;logo=Gmail&amp;logoColor=white&amp;link=mailto:chauminhphuc1994it@gmail.com" style="max-width: 100%;">
-  <i style="font-size: 10px">chauminhphuc1994it@gmail.com</i>
+  <i style="color: red">chauminhphuc1994it@gmail.com</i>
 </a>
 
 <!--
