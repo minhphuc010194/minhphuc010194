@@ -1,5 +1,5 @@
 ### Hi there 👋
-<img src="https://camo.githubusercontent.com/26989c7f878f2e886c593beafa4851d434de644b02c392b54b774f58e1e430ef/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d73616e6764746840676d61696c2e636f6d2d6331343433383f7374796c653d666c6174266c6f676f3d476d61696c266c6f676f436f6c6f723d7768697465266c696e6b3d6d61696c746f3a73616e6764746840676d61696c2e636f6d" alt="Gmail Badge" data-canonical-src="https://img.shields.io/badge/-chauminhphuc1994it@gmail.com-c14438?style=flat&amp;logo=Gmail&amp;logoColor=white&amp;link=mailto:chauminhphuc1994it@gmail.com" style="max-width: 100%;">
+<img src="https://camo.githubusercontent.com/26989c7f878f2e886c593beafa4851d434de644b02c392b54b774f58e1e430ef/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d73616e6764746840676d61696c2e636f6d2d6331343433383f7374796c653d666c6174266c6f676f3d476d61696c266c6f676f436f6c6f723d7768697465266c696e6b3d6d61696c746f3a73616e6764746840676d61696c2e636f6d" alt="Gmail Badge" data-canonical-src="https://img-premium.flaticon.com/png/512/2875/2875435.png?token=exp=1633054181~hmac=45f39a1092357c65dfdd725ec5054811?style=flat&amp;logo=Gmail&amp;logoColor=white&amp;link=mailto:chauminhphuc1994it@gmail.com" style="max-width: 100%;">
 <!--
 **minhphuc010194/minhphuc010194** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
