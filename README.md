@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <a href="mailto:chauminhphuc1994it@gmail.com">
-  <img src="https://img-premium.flaticon.com/png/512/2875/2875435.png?token=exp=1633054181~hmac=45f39a1092357c65dfdd725ec5054811" width="20px"     alt="Gmail Badge" data-canonical-src="https://img.shields.io/badge/-chauminhphuc1994it@gmail.com-c14438?               style=flat&amp;logo=Gmail&amp;logoColor=white&amp;link=mailto:chauminhphuc1994it@gmail.com" style="max-width: 100%;">
+  <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="20px" alt="Gmail Badge" data-canonical-src="https://img.shields.io/badge/-chauminhphuc1994it@gmail.com-c14438?               style=flat&amp;logo=Gmail&amp;logoColor=white&amp;link=mailto:chauminhphuc1994it@gmail.com" style="max-width: 100%;">
 </a>
 <a href="https://www.facebook.com/phuc.chauminh">
   <img src="https://cdn-icons-png.flaticon.com/512/733/733547.png" width="20px" alt="FB Badge">
