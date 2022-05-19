@@ -6,7 +6,7 @@
 <a href="https://www.facebook.com/phuc.chauminh">
   <img src="https://cdn-icons-png.flaticon.com/512/733/733547.png" width="20px" alt="FB Badge">
 </a>
-<a href="https://www.linkedin.com/in/minh-ph%C3%BAc-ch%C3%A2u-138452225/">
+<a href="https://www.linkedin.com/in/minh-phuc-138452225">
   <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="20px" alt="FB Badge">
 </a>
 <br />
