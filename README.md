@@ -9,7 +9,7 @@
 <a href="https://www.linkedin.com/in/minh-phuc-138452225">
   <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="20px" alt="FB Badge">
 </a>
-<a href="https://www.linkedin.com/in/minh-phuc-138452225">
+<a href="https://avatars.githubusercontent.com/u/58540065?v=4">
   <img src="https://avatars.githubusercontent.com/u/58540065?v=4" width="20px" alt="minh-phuc">
 </a>
 
