@@ -1,5 +1,5 @@
 <a href="https://avatars.githubusercontent.com/u/58540065?v=4">
-  <img src="https://avatars.githubusercontent.com/u/58540065?v=4" width="20px" alt="minh-phuc">
+  <img src="https://avatars.githubusercontent.com/u/58540065?v=4" width="25px" alt="minh-phuc">
 </a>Hi, nice to meet you! 👋
 <br/>
 <a href="mailto:chauminhphuc1994it@gmail.com">
