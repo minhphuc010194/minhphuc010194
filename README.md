@@ -1,4 +1,6 @@
-### Hi, nice to meet you! 👋
+<a href="https://avatars.githubusercontent.com/u/58540065?v=4">
+  <img src="https://avatars.githubusercontent.com/u/58540065?v=4" width="20px" alt="minh-phuc">
+</a>### Hi, nice to meet you! 👋
 
 <a href="mailto:chauminhphuc1994it@gmail.com">
   <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="20px" alt="Gmail Badge" data-canonical-src="https://img.shields.io/badge/-chauminhphuc1994it@gmail.com-c14438?               style=flat&amp;logo=Gmail&amp;logoColor=white&amp;link=mailto:chauminhphuc1994it@gmail.com" style="max-width: 100%;">
@@ -9,9 +11,7 @@
 <a href="https://www.linkedin.com/in/minh-phuc-138452225">
   <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="20px" alt="FB Badge">
 </a>
-<a href="https://avatars.githubusercontent.com/u/58540065?v=4">
-  <img src="https://avatars.githubusercontent.com/u/58540065?v=4" width="20px" alt="minh-phuc">
-</a>
+
 
 <br />
 https://skyline.github.com/minhphuc010194/2022
