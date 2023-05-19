@@ -1,7 +1,10 @@
 <a href="https://avatars.githubusercontent.com/u/58540065?v=4">
   <img src="https://avatars.githubusercontent.com/u/58540065?v=4" width="25px" alt="minh-phuc">
 </a>Hi! Nice to meet you! 👋
+
 <br/> <br/>
+<a href="https://app.daily.dev/Bum-lowkey"><img src="https://api.daily.dev/devcards/e955e8f5278640ef9ab8921a060de2ee.png?r=46n" width="200" alt="Minh Phuc (Aka Bum)'s Dev Card"/></a>
+<br />
 <a href="mailto:chauminhphuc1994it@gmail.com">
   <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="20px" alt="Gmail Badge" data-canonical-src="https://img.shields.io/badge/-chauminhphuc1994it@gmail.com-c14438?               style=flat&amp;logo=Gmail&amp;logoColor=white&amp;link=mailto:chauminhphuc1994it@gmail.com" style="max-width: 100%;">
 </a>
