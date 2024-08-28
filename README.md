@@ -15,9 +15,6 @@
   <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="20px" alt="FB Badge">
 </a>
 <br />
-<a href="https://skyline.github.com/minhphuc010194/2023">
-  Skyline 2023 🌱
-</a>
 
 
 <!--
